@@ -1,5 +1,6 @@
 # voronoi
-Utilities for creating voronoi cells
+
+Utilities for creating and displaying Voronoi Cells.
 
 ## Voronoi Diagram
 
@@ -27,8 +28,8 @@ According to Wikipedia [2]:
 
 ### About this repository
 
-These source files provide functions for generating Voronoi Cells for a set of points,
-as well as functions for generating a random set of points.
+These source files include functions for generating Voronoi Cells for a set of
+points, functions for generating a random set of points, and examples of tests.
 
 It can generate two types of Voronoi Cells for two distance metrics:
 Euclidean distance (equivalently known as L2) and Manhattan distance (known as
