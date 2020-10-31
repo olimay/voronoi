@@ -1,6 +1,17 @@
 # voronoi
 
-Utilities for creating and displaying Voronoi Cells.
+Here are some utilities for creating and displaying Voronoi Cells.
+
+## Demo
+
+Live demo utilizing R Shiny: https://olimay.shinyapps.io/MidtermVoronoi/
+
+It displays the cell generation points in red and the cell boundaries in black.
+
+_Note: The source code for the demo above reuses code, with many thanks, developed by
+course staff for the Fall 2020 Harvard Extension School course,
+*MATH E-151: Classic Mathematics with a Modern User Interface* that is not part of this
+repository._
 
 ## Voronoi Diagram
 
@@ -30,6 +41,10 @@ According to Wikipedia [2]:
 
 These source files include functions for generating Voronoi Cells for a set of
 points, functions for generating a random set of points, and examples of tests.
+
+The R code was originally developed as part of a midterm/final project for
+the Fall 2020 Harvard Extension School course, E-151, *Classic Mathematics with
+a Modern User Interface*.
 
 It can generate two types of Voronoi Cells for two distance metrics:
 Euclidean distance (equivalently known as L2) and Manhattan distance (known as
